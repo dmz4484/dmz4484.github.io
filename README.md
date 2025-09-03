@@ -1,1 +1,13 @@
-# dmz4484.github.io
+# Student
+
+### Education
+BS: Computer Science and Mathematics
+Minor: Data Science
+
+### Experience
+-
+-
+
+### Projects
+-
+-
